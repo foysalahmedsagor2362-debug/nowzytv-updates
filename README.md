@@ -1,0 +1,2 @@
+# nowzytv-updates
+nowzyplus
